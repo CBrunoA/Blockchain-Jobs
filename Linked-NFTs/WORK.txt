@@ -1,0 +1,7 @@
+For: Mattias Movie
+Make a land and each land has some assets. You can buy land, land + assets or only assets.
+
+28/01/2022 18,40
+30/01/2022 16,00
+
+Amount paid: 70eur
